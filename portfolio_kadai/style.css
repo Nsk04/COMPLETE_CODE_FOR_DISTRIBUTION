@@ -1,0 +1,53 @@
+html {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+
+main.png {
+  width: 100px;
+}
+
+nav {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.home {
+  border: 1px solid black;
+}
+
+.menu {
+}
+
+h1 {
+  font-size: 34px;
+  text-align: center;
+}
+
+.about {
+  display: flex;
+}
+
+.about.png {
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+li {
+  font-size: 18px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.works {
+  display: flex;
+}
+
+footer {
+  text-align: center;
+}
+
